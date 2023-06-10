@@ -5,7 +5,7 @@ Welcome to an extensive collection of projects being developed or supported by A
 ### [Landmark Attention Qlora](https://github.com/eugenepentland/landmark-attention-qlora)
 An integral part of the "Infinite Extension" project. We're using Landmark Attention and Qlora to address the issue of context length. Currently, we have a 13B model and are in the process of integrating SPOS, custom architecture, and custom datasets, all while optimizing for consumer hardware resource usage. we are actively integrating the features ot he featured collaborations and expect to continue to make great progress. (70k on open llama and 5k on minotaur so far!)
 
-## 🚀 Featured Collaborations
+## Featured Collaborations
 
 ### [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
 A product of the Open Access AI Collective. This training wrapper aims to democratize AI by creating accessible tools, high-quality models, and educational materials. Our team is actively contributing to this project.
@@ -13,7 +13,7 @@ A product of the Open Access AI Collective. This training wrapper aims to democr
 ### [OpenLlama-7b-4k](https://huggingface.co/openaccess-ai-collective/openllama-7b-4k) & [Falcon-7b-4k-alibi](https://huggingface.co/openaccess-ai-collective/falcon-7b-4k-alibi)
 Initiatives of the Open Access AI Collective. We are closely involved in the development of these projects, which represent the next mechanisms we plan to incorporate into our work.
 
-## 💼 Direct Projects by Alignment Lab AI
+## Direct Projects by Alignment Lab AI
 
 1. **[Synthetic Data Generators](https://github.com/Alignment-Lab-AI/synthetic-data-generators)**: A flexible framework to create and parse data into semantically described datasets.
 2. **[TALIS-Follow](https://github.com/Alignment-Lab-AI/TALIS-Follow)**: Develops a Titan server framework to let users run 65B Llama models locally.
@@ -26,7 +26,7 @@ Initiatives of the Open Access AI Collective. We are closely involved in the dev
 ## Our datasets (more coming soon)
 **[Code-Instruct-Sets]https://huggingface.co/datasets/AtlasUnified/Code-Instruct-Sets/
 
-## 📚 Inspirational Open-Source Work
+## Inspirational Open-Source Work
 
 We're continually inspired by the open-source community. Please take a moment to appreciate their incredible work:
 1. [Context Length by KaiokenDev](https://github.com/kaiokendev/cutoff-len-is-context-len)
