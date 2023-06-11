@@ -27,6 +27,7 @@ Initiatives of the Open Access AI Collective. We are closely involved in the dev
 6. **[RHODAN](https://github.com/Alignment-Lab-AI/RHODAN)**: An easy-to-use chat interface with CLI-enabled GPT-4.
 7. **[vectorchat](https://github.com/Alignment-Lab-AI/vectorchat)**: a vector enabled task bot suitable for learning, teaching, and entertainment.
 8. **[CogniSwarmBackup](https://github.com/Alignment-Lab-AI/CogniSwarmbackup)**: An extensible, highly featured AI agent wrapper that can pilot swarms of agents.
+9. **[Model-Merge-Mega](https://github.com/Alignment-Lab-AI/Model-Merge-Mega)**: a graphical interface to make comparing and merging models easy and visually clear
 
 ## Our datasets (more coming soon)
 **[Code-Instruct-Sets](https://huggingface.co/datasets/AtlasUnified/Code-Instruct-Sets)**
