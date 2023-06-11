@@ -34,7 +34,7 @@ Initiatives of the Open Access AI Collective. We are closely involved in the dev
 ## Inspirational Open-Source Work
 
 We're continually inspired by the open-source community. Please take a moment to appreciate their incredible work:
-1. [XPos RoPE by KaiokenDev](https://github.com/kaiokendev/cutoff-len-is-context-len)
+1. [XPos RoPE by lucidrains, Microsoft, Zhuiyi Technology, and KaiokenDev](https://github.com/kaiokendev/cutoff-len-is-context-len)
 2. [Landmark Attention by EPFML](https://github.com/epfml/landmark-attention)
 3. [QLORa by artidoro](https://github.com/artidoro/qlora)
 
