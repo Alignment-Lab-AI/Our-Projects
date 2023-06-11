@@ -37,5 +37,5 @@ We're continually inspired by the open-source community. Please take a moment to
 1. [XPos RoPE by lucidrains, Microsoft, Zhuiyi Technology, and KaiokenDev](https://github.com/kaiokendev/cutoff-len-is-context-len)
 2. [Landmark Attention by Amirkeivan Mohtashami, Martin Jaggi, EPFML](https://github.com/epfml/landmark-attention)
 3. [QLORa by dettmers,artidoro,ahai,lsz @ university of Washington](https://github.com/artidoro/qlora)
-4. [ALiBi](https://github.com/ofirpress/attention_with_linear_biases)
+4. [ALiBi by Ofir Press,Noah A. Smith, Mike Lewis, university of Washington, Facebook, Allen institute for AI] (https://github.com/ofirpress/attention_with_linear_biases)
 Lastly, our heartfelt thanks to Facebook for providing Llama, an open-sourced, powerful language model. We have many exciting projects on the horizon. If you're as passionate about AI as we are, we would love to have you on board!
