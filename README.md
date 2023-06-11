@@ -36,6 +36,6 @@ Initiatives of the Open Access AI Collective. We are closely involved in the dev
 We're continually inspired by the open-source community. Please take a moment to appreciate their incredible work:
 1. [XPos RoPE by KaiokenDev](https://github.com/kaiokendev/cutoff-len-is-context-len)
 2. [Landmark Attention by EPFML](https://github.com/epfml/landmark-attention)
-3. [QLORa by artidoro]https://github.com/artidoro/qlora
+3. [QLORa by artidoro](https://github.com/artidoro/qlora)
 
 Lastly, our heartfelt thanks to Facebook for providing Llama, an open-sourced, powerful language model. We have many exciting projects on the horizon. If you're as passionate about AI as we are, we would love to have you on board!
