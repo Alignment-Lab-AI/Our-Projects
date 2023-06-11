@@ -25,7 +25,8 @@ Initiatives of the Open Access AI Collective. We are closely involved in the dev
 4. **[Transformers-UI](https://github.com/Alignment-Lab-AI/transformers-ui)**: Aims to develop a fully featured UI for the Transformers framework.
 5. **[Autocode](https://github.com/Alignment-Lab-AI/autocode)**: A project to develop a framework for fully autonomous AI programming.
 6. **[RHODAN](https://github.com/Alignment-Lab-AI/RHODAN)**: An easy-to-use chat interface with CLI-enabled GPT-4.
-7. **[CogniSwarmBackup](https://github.com/Alignment-Lab-AI/CogniSwarmbackup)**: An extensible, highly featured AI agent wrapper that can pilot swarms of agents.
+7. **[vectorchat](https://github.com/Alignment-Lab-AI/vectorchat)**: a vector enabled task bot suitable for learning, teaching, and entertainment.
+8. **[CogniSwarmBackup](https://github.com/Alignment-Lab-AI/CogniSwarmbackup)**: An extensible, highly featured AI agent wrapper that can pilot swarms of agents.
 
 ## Our datasets (more coming soon)
 **[Code-Instruct-Sets](https://huggingface.co/datasets/AtlasUnified/Code-Instruct-Sets)**
