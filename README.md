@@ -6,7 +6,7 @@ Dive into these initiatives and engage with the authors and repository owners. T
 
 ## Direct Projects by Alignment Lab AI
 
-1. **[Landmark Attention Qlora](https://github.com/eugenepentland/landmark-attention-qlora)**: An integral part of the "Infinite Extension" project. We're using Landmark Attention and Qlora to address the issue of context length. Currently, we have a 13B model and are in the process of integrating SPOS, custom architecture, and optimizing for consumer hardware resource usage. We are actively integrating the features ot he featured collaborations and expect to continue to make great progress. (70k on open llama and 5k on minotaur so far!)
+1. **[Landmark Attention Qlora](https://github.com/eugenepentland/landmark-attention-qlora)**: An integral part of the "Infinite Extension" project. We're using Landmark Attention and Qlora to address the issue of context length. Currently, we have a 13B model and are in the process of integrating XPos, custom architecture, and optimizing for consumer hardware resource usage. We are actively integrating the features ot he featured collaborations and expect to continue to make great progress. (70k on open llama and 5k on minotaur so far!)
 
 ## Featured Collaborations
 
