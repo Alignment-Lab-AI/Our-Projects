@@ -14,7 +14,7 @@ Additionally, includes our custom packing and masking system which allows us to 
 
 ## [OpenOrca](https://huggingface.co/Open-Orca)
 
-Our first foray into major alignment advancements. We have reproduced the dataset and text generation model outlined in the Microsoft Research Orca paper. This open source resource produced and enabled the most advanced and capable open source models in the world today, and dramatically improved the ability of small generative language models which run on consumer CPU and GPU to perform accurate and complex detailed step-by-steap reasoning on broad sets of previously intractable tasks. Beyond reproduction, we have improved the dataset and training methods to surpass the initial research via extensive ablations, evaluations, and refinement of our methods.
+Our first foray into major alignment advancements. We have reproduced the dataset and text generation model outlined in the Microsoft Research Orca paper. Our open source resource has produced and enabled the most advanced and capable open source models in the world today, and dramatically improved the ability of small generative language models which run on consumer CPU and GPU to perform accurate and complex detailed step-by-steap reasoning on broad sets of previously intractable tasks. Beyond reproduction, we have improved the dataset and training methods to surpass the initial research via extensive ablations, evaluations, and refinement of our methods.
 
 ### First Model: [OpenOrca Preview 1 - 13B](https://huggingface.co/Open-Orca/OpenOrca-Preview1-13B) 
 
