@@ -49,9 +49,7 @@ A custom implementation of eleuthers eval harness and HuggingFace's benchmarks a
 ### [Synthetic Data Generators](https://github.com/Alignment-Lab-AI/synthetic-data-generators)
 
 a system to agnostically create training data of a user defined format and shape using raw data, or by reshaping preconstructed datasets.
-a toolbox which is designed to work with and include:
-
-  ## [Instruction-Set Generator](https://github.com/atlasunified/instruction-set-generator)
+a toolbox which is designed to work with and include: [Instruction-Set Generator](https://github.com/atlasunified/instruction-set-generator)
 
 ### Synthetic Sentience Systems(link soon!)
 
