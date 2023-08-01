@@ -9,8 +9,8 @@ Dive into these initiatives and engage with the authors and repository owners. o
 
 ### [Axolotl Trainer](https://github.com/OpenAccess-AI-Collective/axolotl)
 
-A product of the Open Access AI Collective. This training wrapper aims to democratize AI by creating accessible tools, high-quality models, and an accessible framework with a more open and convenient system to use datasets of different formats, and include as much as possible in terms of compatiblity and interoperability with modern tecniques
-additionally inlcudes our custom packing and masking system which allows us to reduce the wall clock time of training by 2/3's and end with higher quality models as well!
+Helmed by [OpenAccess-AI-Collective](https://github.com/OpenAccess-AI-Collective) This training wrapper aims to democratize AI by creating accessible tools, high-quality models, and an accessible framework with a more open and convenient system to use datasets of different formats, and include as much as possible in terms of compatibility and interoperability with modern techniques
+Additionally includes our custom packing and masking system which allows us to reduce the wall clock time of training by 2/3's and end with higher quality models as well!
 
 ### [OpenChat](https://github.com/imoneoi/openchat/tree/master)
 
@@ -32,11 +32,11 @@ Our MOE project which has rapidly advanced due to the incredibly smart individua
 
 ### [Babelm](link soon!)
 
-A project to make use of substantial and ongoing research to generate an efficient method for converting a models language from english to non english, with particular focus on languages which use non latin characters primarily. will include generally useful tools for optimizing vocabulary and reducing the weight cost converting languages typically holds, as well as a pipeline to automatically generate a full cleaned corpus of data in the target language.
+A project to make use of substantial and ongoing research to generate an efficient method for converting a model's language from english to non english, with particular focus on languages which use non latin characters primarily. will include generally useful tools for optimizing vocabulary and reducing the weight cost converting languages typically holds, as well as a pipeline to automatically generate a full cleaned corpus of data in the target language.
 
 ### [Codeinterpereter-api](https://github.com/shroominic/codeinterpreter-api)
 
-An open implementation of OpenAI's Code interpreter which already outpaces it in functionality, helmed by [shroominic](https://github.com/shroominic). Being tooled for open sourced LLMs, link will update here soon!
+An open implementation of OpenAI's Code interpreter which already outpaces it in functionality, helmed by [Shroominic](https://github.com/shroominic). Being tooled for open sourced LLMs, link will update here soon!
 
 ### General Intelligence Agency(link soon!)
 
@@ -44,7 +44,7 @@ An ecosystem designed as an interoperable framework for agents to enhance and au
 
 ### Enhanced Evaluator(link soon!)
 
-A custom implementation of eleuthers eval harness and HuggingFace's benchmarks along with vllm its currently accessible in [OpenChat](https://github.com/imoneoi/openchat/tree/master). Aims to benchmark modern LLMs by removing prompt bias and adding categories to rank suitability in MoE frameworks and agent harnesses as well.
+A custom implementation of Eleuthers eval harness and HuggingFace's benchmarks along with vllm it’s currently accessible in [OpenChat](https://github.com/imoneoi/openchat/tree/master). Aims to benchmark modern LLMs by removing prompt bias and adding categories to rank suitability in MoE frameworks and agent harnesses as well.
 
 ### [Synthetic Data Generators](https://github.com/Alignment-Lab-AI/synthetic-data-generators)
 
@@ -53,70 +53,69 @@ a toolbox which is designed to work with and include: [Instruction-Set Generator
 
 ### Synthetic Sentience Systems(link soon!)
 
-ongoing research and development towards a system to imbue a model with the neccesary qualia to emulate sentience and establish an objective framework for measuring and charting this quality. the goal aims to help us understand our own sentience, and provide a meaningful guideline for estimating and measuring our progress towards a true AGI.
+Ongoing research and development towards a system to imbue a model with the necessary qualia to emulate sentience and establish an objective framework for measuring and charting this quality. The goal aims to help us understand our own sentience, and provide a meaningful guideline for estimating and measuring our progress towards a true AGI.
 
 ### [TALIS-Follow](https://github.com/Alignment-Lab-AI/TALIS-Follow)
 
-a project to allow users to host and instantiate large models on local gpus, initially optimized for llama 65b future efforts will focus on falcon 40b, long context models, and llama2 70b as well
+A project to allow users to host and instantiate large models on local gpus, initially optimized for llama 65b future efforts will focus on falcon 40b, long context models, and llama2 70b as well
 
 ### [AutoMeticAssistant](https://github.com/Alignment-Lab-AI/AutoMeticAssistant) 
 
-a repository currently operating as a placeholder until the projects needed catch up to it, aims to generate a multimodal model trained to interact with a users pc and the internet functionally and serve as a system to fully automate any digital task.
+A repository currently operating as a placeholder until the projects needed to catch up to it, aims to generate a multimodal model trained to interact with a users pc and the internet functionally and serve as a system to fully automate any digital task.
 
 ### [Transformers-UI](https://github.com/Alignment-Lab-AI/transformers-ui)
 
-the early framework for a project to create a functional ui for the transformers and datasets libraries to allow users to more accessibly fine tune models, shape datasets, collect and understand the metadata from training and engage in the lesser understood elements of the transformers library such as model editing.
+The early framework for a project to create a functional ui for the transformers and datasets libraries to allow users to more Accessibly fine tune models, shape datasets, collect and understand the metadata from training and engage in the lesser understood elements of the transformers library such as model editing.
 
 ### [Autocode](https://github.com/Alignment-Lab-AI/autocode)
 
-a series of scripts and experiments related to using the openai api to create a script that writes script, some are more performative than others, development on [Open Code Interpreter](placeholderlink) has depreciated the repository, but it still provides useful scripts worth sharing
+A series of scripts and experiments related to using the Openai api to create a script that writes script, some are more performative than others, development on [Codeinterpereter-api](https://github.com/shroominic/codeinterpreter-api) has depreciated the repository, but it still provides useful scripts worth sharing
 
 ### [RHODAN](https://github.com/Alignment-Lab-AI/RHODAN)
 
-a custom api-agnostic exensible ai chat ui which seeks to create a simple framework for productivity similar to obsidian to provide the maximum amount of utility and flexibility with minimal complexity
+A custom api-agnostic extensible ai chat ui which seeks to create a simple framework for productivity similar to obsidian to provide the maximum amount of utility and flexibility with minimal complexity
 
 ### [VectorChat](https://github.com/Alignment-Lab-AI/vectorchat) 
 
-a straightforward chat bot with a simple vector storage network able to provide the benefits of memory without a lot of the bloat and complexity of similaar models
+a straightforward chat bot with a simple vector storage network able to provide the benefits of memory without a lot of the bloat and complexity of similar models
 
 ### [Model-Merge-Mega](https://github.com/Alignment-Lab-AI/Model-Merge-Mega)
-
-a project that aims to consolidate all of the current model merging systems into a singular accessible interface which can inteligently measure models and provide relevant information about the merging to inform user decisions.
-    next step include developing [ties-merging](https://github.com/prateeky2806/ties-merging) into the system to remove or mitigate the downsides to model merging, and eventually build a framework for developers to patch their released models rather than having to continuously release new ones, bury their users, and waste a lot of money retraining on the same data.
+A project which aims to consolidate all of the current model merging systems into a singular accessible interface which can intelligently measure models and provide relevant information about the merging to inform user decisions.
+    Next steps include developing [ties-merging](https://github.com/prateeky2806/ties-merging) into the system to remove or mitigate the downsides to model merging, and eventually build a framework for developers to patch their released models rather than having to continuously release new ones, bury their users, and waste a lot of money retraining on the same data.
 
 ## Our Datasets
 
 ### [OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca) 
 
 The replicated dataset from [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://paperswithcode.com/paper/orca-progressive-learning-from-complex)
-we aim for a faithful and identical replicationi of the set, but the results so far have been staggering, creating multiple models from other organizations which are nearly on par with gpt 3.5, and within ours which we're releasing slowly after thorough testing. each model weve built has surpassed our initial [preview 1](https://huggingface.co/Open-Orca/OpenOrca-Preview1-13B) release which only included roughly 6% of the dataset and produced state of the art results.
+We aim for a faithful and identical replication of the set, but the results so far have been staggering, creating multiple models from other organizations which are nearly on par with gpt 3.5, and within ours which we're releasing slowly after thorough testing. Each model we've built has surpassed our initial [preview 1](https://huggingface.co/Open-Orca/OpenOrca-Preview1-13B) release which only included roughly 6% of the dataset and produced state of the art results.
 
 ### [Flan](https://huggingface.co/datasets/Open-Orca/FLAN)
 
-The first fully collected and easily accessible version of FLAN, a 500 gb instruction pretraining dataset developed by google [a more thorough explaination can be founud here](https://arxiv.org/pdf/2109.01652.pdf) contains all of the original subsets and includes an additional set for the ones needed to generate [OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca) 
+The first fully collected and easily accessible version of FLAN, a 500 gb instruction pre training dataset developed by google [a more thorough explanation can be found here](https://arxiv.org/pdf/2109.01652.pdf) contains all of the original subsets and includes an additional set for the ones needed to generate [OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca) 
 
 ### [EverythingIsAllYouNeed](https://huggingface.co/datasets/Alignment-Lab-AI/EverythingIsAllYouNeed)
 
-to be announced soon
+To be announced soon
 
-### [a compilation of code instruct sets](https://huggingface.co/datasets/AtlasUnified/Code-Instruct-Sets)
+### [Unified code instruct sets](https://huggingface.co/datasets/AtlasUnified/Code-Instruct-Sets)
 
-a pile of python oriented code instruction data ready for fine tuning
+A pile of python oriented code instruction data ready for fine tuning, helmed by [AtlasUnified](https://huggingface.co/datasets/AtlasUnified)
 
 ### [more soon!]
 
-were accelerating at wild pace! documenting everything is taking a little while, and making sure all the repositories are as clean and hassle free as possible is going to happen incrementally, please be patient and follow along for updates! major releases will be announced on twitter/x at [@Alignment_lab](https://twitter.com/alignment_lab)
+We’re accelerating at a wild pace! documenting everything is taking a little while, and making sure all the repositories are as clean and hassle free as possible is going to happen incrementally, please be patient and follow along for updates! major releases will be announced on twitter/x at [@Alignment_lab](https://twitter.com/alignment_lab)
 
 ## Retention Oriented Attention(link soon!)
 
-A planned project aimed at researching and generating an drop in system to allow the use of language models without a strict cap for sequence length
+A planned project aimed at researching and generating an drop in system to allow the use of language models without a strict cap for sequence length.
 
-for now, there isnt a single centralized location that covers all of this project, so ill link you to our related repositories, and the repositories which were studying but exist outside of Alignment Lab
+For now, there isn't a single centralized location that covers all of this project, so ill link you to our related repositories, and the repositories which were studying but exist outside of Alignment Lab
 
 ### [Landmark Attention Qlora](https://github.com/eugenepentland/landmark-attention-qlora)
 an efficient composition of landmark attention with qlora and other optimizations to reduce the impact of the scaling of vram over the length of the context of the model
 
-some citations for works included with Retention Oriented Attation include:
+some citations for works included with Retention Oriented Attention include:
 
 1. [Landmark Attention](https://github.com/epfml/landmark-attention) by Amirkeivan Mohtashami, Martin Jaggi, EPFML
 
@@ -139,14 +138,16 @@ We have many exciting projects on the horizon. If you're as passionate about AI 
 
 ## live training system
 
-an online learning framework making use of ROME, MEMIT, and various other research weve conducted allowing users to give a personality to a model and train it gradually over time through various one shot training steps punctuated by sentiment analysis enhanced self supervized training over user/model chat data
+an online learning framework making use of ROME, MEMIT, and various other research weve conducted allowing users to give a personality to a model and train it gradually over time through various one shot training steps punctuated by sentiment analysis enhanced self supervised training over user/model chat data
 
 ## The Ecosystem
 
-an all in one modular framework to allow users to have a composablbe api system interoperable with our host of projects entirely locally.
+an all in one modular framework to allow users to have a composable api system interoperable with our host of projects entirely locally.
 
 ## Sparsity stack
 
-A singular location where we compose the variety of research and tools weve gained or developed for operating models with a minimal amount of hardware and a minimal amount of performance loss
+A singular location where we compose the variety of research and tools we've gained or developed for operating models with a minimal amount of hardware and a minimal amount of performance loss
 
 ## more soon!
+
+
