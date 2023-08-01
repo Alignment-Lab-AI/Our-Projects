@@ -1,4 +1,4 @@
-for liscencing information on the lsited projects please consult the source repository! this liscence specifically covers this repository and has no bearing on the linked information or repositories of Alignment Lab AI, Limited Comany, or any other repositories mentioned.
+For licensing information on the listed projects please consult the source repository! This license specifically covers this repository and has no bearing on the linked information or repositories of Alignment Lab AI, or any other repositories mentioned.
 
 Creative Commons Legal Code
 
