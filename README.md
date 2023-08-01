@@ -134,7 +134,7 @@ some citations for works included with Retention Oriented Attention include:
 We have many exciting projects on the horizon. If you're as passionate about AI as we are, we would love to have you on board!
 
 
-### planned projects
+# planned projects
 
 ## live training system
 
