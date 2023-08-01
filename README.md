@@ -96,7 +96,7 @@ We aim for a faithful and identical replication of the set, but the results so f
 
 ### [Flan](https://huggingface.co/datasets/Open-Orca/FLAN)
 
-The first fully collected and easily accessible version of FLAN, a 500 gb instruction pre training dataset developed by google [a more thorough explanation can be found here](https://arxiv.org/pdf/2109.01652.pdf) contains all of the original subsets and includes an additional set for the ones needed to generate [OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca) 
+The first fully collected and easily accessible version of FLAN, a 300 gb instruction pre training dataset developed by google [a more thorough explanation can be found here](https://arxiv.org/pdf/2109.01652.pdf) contains all of the original subsets and includes an additional set for the ones needed to generate [OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca) 
 
 ### [EverythingIsAllYouNeed](https://huggingface.co/datasets/Alignment-Lab-AI/EverythingIsAllYouNeed)
 
