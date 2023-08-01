@@ -67,6 +67,10 @@ A repository currently operating as a placeholder until the projects needed to c
 
 The early framework for a project to create a functional ui for the transformers and datasets libraries to allow users to more Accessibly fine tune models, shape datasets, collect and understand the metadata from training and engage in the lesser understood elements of the transformers library such as model editing.
 
+
+### [Landmark Attention Qlora](https://github.com/eugenepentland/landmark-attention-qlora)
+an efficient composition of landmark attention with qlora and other optimizations to reduce the impact of the scaling of vram over the length of the context of the model
+
 ### [Autocode](https://github.com/Alignment-Lab-AI/autocode)
 
 A series of scripts and experiments related to using the Openai api to create a script that writes script, some are more performative than others, development on [Codeinterpereter-api](https://github.com/shroominic/codeinterpreter-api) has depreciated the repository, but it still provides useful scripts worth sharing
@@ -110,10 +114,7 @@ We’re accelerating at a wild pace! documenting everything is taking a little w
 
 A planned project aimed at researching and generating an drop in system to allow the use of language models without a strict cap for sequence length.
 
-For now, there isn't a single centralized location that covers all of this project, so ill link you to our related repositories, and the repositories which were studying but exist outside of Alignment Lab
-
-### [Landmark Attention Qlora](https://github.com/eugenepentland/landmark-attention-qlora)
-an efficient composition of landmark attention with qlora and other optimizations to reduce the impact of the scaling of vram over the length of the context of the model
+For now, there isn't a single centralized location that covers all of this project, so ill provide a list of a few of the places weve been referring to.
 
 some citations for works included with Retention Oriented Attention include:
 
