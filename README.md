@@ -1,6 +1,6 @@
 # Welcome to Our Projects
 
-Welcome to an extensive collection of projects being by and with Alignment Lab AI. Our mission is to shape the future of AI with groundbreaking work, and we invite you to join us in this venture. If you are interested in our projects and want to be part of this exciting journey, [join our Discord server](https://discord.gg/n9hXaBPWxx) and visit our [website](alignmentlab.ai)!
+Welcome to an extensive collection of projects being developed by and with Alignment Lab AI. Our mission is to shape the future of AI with groundbreaking work, and we invite you to join us in this venture. If you are interested in our projects and want to be part of this exciting journey, [join our Discord server](https://discord.gg/n9hXaBPWxx) and visit our [website](alignmentlab.ai)!
 
 Dive into these initiatives and engage with the authors and repository owners. our work is inspiring and together, we can reach new heights.
 
