@@ -16,13 +16,13 @@ Additionally, includes our custom packing and masking system which allows us to 
 
 Our first foray into major alignment advancements. We have reproduced the dataset and text generation model outlined in the Microsoft Research Orca paper. Our open source resource has produced and enabled the most advanced and capable open source models in the world today, and dramatically improved the ability of small generative language models which run on consumer CPU and GPU to perform accurate and complex detailed step-by-steap reasoning on broad sets of previously intractable tasks. Beyond reproduction, we have improved the dataset and training methods to surpass the initial research via extensive ablations, evaluations, and refinement of our methods.
 
+### Latest Model: [OpenOrca x OpenChat - Preview 2 - 13B](https://huggingface.co/Open-Orca/OpenOrcaxOpenChat-Preview2-13B/)
+
+Beyond Orca parity. Trained in under 3 days with <10% of the original Orca's compute budget. On top of all leaderboards for 13B text generation models at release by good margin. Better than most 30B models. Comparable to original LLaMA 65B.
+
 ### First Model: [OpenOrca Preview 1 - 13B](https://huggingface.co/Open-Orca/OpenOrca-Preview1-13B) 
 
 The original preview model we released as part of our project by the same name. We used 6% of the dataset cleaned and slightly optimized with our own techniques and achieved 60% of the improvement over Vicuna reported in the Orca evals from the paper [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://paperswithcode.com/paper/orca-progressive-learning-from-complex)
-
-### Upcoming Model: OpenOrca Preview 2
-
-Beyond Orca parity. Coming very soon!
 
 ## [OpenChat](https://github.com/imoneoi/openchat/tree/master)
 
