@@ -1,8 +1,6 @@
-# Welcome to Our Projects
-soon...
+# Projects have moved!  check them out at
 
-follow us
-
-12/15/23
+[ Alignmentlab.AI.](https://alignmentlab.ai/projects)
+there are still more being uploaded so stay in touch!
 
 [@Alignment_Lab](https://twitter.com/alignment_lab)
